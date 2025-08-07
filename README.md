@@ -22,8 +22,11 @@ A simple and responsive login and signup page created using **HTML** and **CSS**
 
 📸 Screenshots
 🖥️ Login Page
+
 ![Sign in ](./signin.png)
+
 📝 Signup Page
+
 ![Sign up](./signup.png)
 ## 🚀 Getting Started
 
