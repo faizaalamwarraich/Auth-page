@@ -1,24 +1,39 @@
-# 🌸 Auth Page - Login & Signup
+# Login and Signup Page 🌐
 
-A modern, responsive login and signup page built with **HTML**, **CSS**, and **Bootstrap**.  
-Includes a smooth slide animation between Login and Signup forms, styled in pink gradient theme.
-
----
-
-## ✨ Features
-- Clean, responsive design
-- Smooth swipe animation from login to signup
-- Custom pink-themed buttons and overlay
-- Built with Bootstrap for easy customization
+A simple and responsive login and signup page created using **HTML** and **CSS**. This project demonstrates how to build clean and modern authentication interfaces for web applications.
 
 ---
 
-## 🚀 Demo
-You can view it live here:  
-👉 [https://YOUR_USERNAME.github.io/auth-page/](https://YOUR_USERNAME.github.io/auth-page/)
+## 🔥 Features
 
-*(Replace `YOUR_USERNAME` with your GitHub username after deploying)*
+- Swipe left-right forms
+- Clean and minimal user interface
+- Separate login and signup forms
+- CSS animations for transitions
 
 ---
 
-## 📦 Folder Structure
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3 (Flexbox, Media Queries)
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+
+cd your-repo-name
+Open index.html in your browser:
+You can simply drag and drop the file in your browser
+Or use a live server in VSCode
+
+📸 Screenshots
+🖥️ Login Page
+![Sign in ](./public/signin.png)
+📝 Signup Page
+![Sign up](./public/signup.png)
+
