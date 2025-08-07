@@ -20,6 +20,11 @@ A simple and responsive login and signup page created using **HTML** and **CSS**
 
 ---
 
+📸 Screenshots
+🖥️ Login Page
+![Sign in ](./signin.png)
+📝 Signup Page
+![Sign up](./signup.png)
 ## 🚀 Getting Started
 
 Clone the repository:
@@ -31,9 +36,5 @@ Open index.html in your browser:
 You can simply drag and drop the file in your browser
 Or use a live server in VSCode
 
-📸 Screenshots
-🖥️ Login Page
-![Sign in ](./public/signin.png)
-📝 Signup Page
-![Sign up](./public/signup.png)
+
 
